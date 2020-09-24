@@ -62,7 +62,7 @@ main {
 }
 
 #landing-image {
-  background: url('/Users/andrewmccann/Documents/Preston Digital Media/Website Pictures/WaterMarks/RootFolder DHM/images/DHMHOME.png');
+  background: url('dreamhousemedia/DHMHOME.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
